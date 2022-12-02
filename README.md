@@ -1,10 +1,10 @@
 # Kubernetes perf-tests
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/kubernetes/perf-tests)](https://goreportcard.com/report/github.com/kubernetes/perf-tests)
+This repository has been forked and adapted from the amazing job made here:
+[Perf tests](https://github.com/kubernetes/perf-tests "Perf tests Repo")
 
-This repo is dedicated for storing various Kubernetes-related performance test related tools. If you want to add your own load-test, benchmark, framework or other tool please contact with one of the Owners.
+to fulfill the requirements for JapanKubeday2022 demo, part of the presentation: "Migrating 5G Core to the Edge, Wisely and Confidently with Kubernetes"
 
-Because in general tools are independent and have their own ways of being configured or run, each subdirectory needs a separate README.md file with the description of its contents.
 
 ## Repository setup
 
